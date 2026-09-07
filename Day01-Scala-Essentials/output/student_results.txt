@@ -1,0 +1,7 @@
+Student Results
+===============
+
+Rahul      Marks: 85  Grade: B  Status: PASS
+Aman       Marks: 35  Grade: F  Status: FAIL
+Priya      Marks: 91  Grade: A  Status: PASS
+Neha       Marks: 68  Grade: C  Status: PASS

@@ -1,48 +1,39 @@
 # Day 01 - Scala Essentials
 
-## Objective
+This is Day 1 of my 30-Day Scala + Apache Spark practice journey.
 
-Practice the fundamental concepts of Scala using immutable collections
-and object-oriented features.
+The goal of Day 1 is to build a strong foundation in Scala before moving
+to Apache Spark.
 
 ## Topics Covered
 
-- val
-- var
-- lazy val
+- `val`
+- `var`
+- `lazy val`
 - Immutable collections
-- List
-- Vector
-- Set
-- Map
+- `List`
+- `Vector`
+- `Set`
+- `Map`
 - Collection operations
 - For-comprehension
-- yield
-- Trait
+- `yield`
+- Traits
 - Class inheritance
 - Student Grade Processor
 
-## Project
+## Project Structure
 
-The Student Grade Processor processes student marks and:
-
-- Determines PASS / FAIL status
-- Calculates student grades
-- Demonstrates Scala collections
-- Demonstrates for-comprehension with yield
-- Demonstrates trait-based logging
-
-## Grade Rules
-
-| Marks | Grade |
-|------:|:-----:|
-| 90+   | A |
-| 75-89 | B |
-| 60-74 | C |
-| 40-59 | D |
-| Below 40 | F |
-
-## How to Run
-
-```bash
-scala -nocompdaemon src/Day01.scala
+```text
+Day01-Scala-Essentials/
+│
+├── README.md
+│
+├── data/
+│   └── students.txt
+│
+├── output/
+│   └── student_results.txt
+│
+└── src/
+    └── Day01.scala

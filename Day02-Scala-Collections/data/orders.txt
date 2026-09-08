@@ -1,0 +1,5 @@
+101,Laptop,2,50000
+102,Mobile,5,20000
+101,Headphones,3,3000
+103,Keyboard,4,1500
+104,Mobile,1,20000

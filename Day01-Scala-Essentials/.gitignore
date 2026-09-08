@@ -1,0 +1,22 @@
+# Scala / SBT
+target/
+project/target/
+project/project/
+.bsp/
+.bloop/
+.metals/
+
+# Compiled files
+*.class
+*.jar
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

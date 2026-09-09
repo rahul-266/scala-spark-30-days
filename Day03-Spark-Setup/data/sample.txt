@@ -1,0 +1,5 @@
+Hello Spark
+This is my Day 3 Spark application
+Spark reads this text file
+Spark processes data in distributed mode
+

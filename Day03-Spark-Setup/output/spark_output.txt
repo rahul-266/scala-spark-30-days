@@ -1,0 +1,17 @@
+[info] welcome to sbt 1.10.11 (Ubuntu Java 17.0.20)
+[info] loading project definition from /home/donesh/scala-spark-30-days/Day03-Spark-Setup/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to Day03-Spark-Setup (in build file:/home/donesh/scala-spark-30-days/Day03-Spark-Setup/)
+[info] running (fork) Day03 
+[info] === Spark Application ===
+[info] Application Name: Day03-Spark-Setup
+[info] Master: local[4]
+[info] Default Parallelism: 4
+[info] === File Contents ===
+[info] Hello Spark
+[info] This is my Day 3 Spark application
+[info] Spark reads this text file
+[info] Spark processes data in distributed mode
+[info] === Number of Lines ===
+[info] 5
+[success] Total time: 9 s, completed Sep 9, 2026, 7:02:56 AM

@@ -1,0 +1,68 @@
+[info] welcome to sbt 1.10.11 (Ubuntu Java 17.0.20)
+[info] loading project definition from /home/donesh/scala-spark-30-days/Day04-RDD-Creation/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to Day04-RDD-Creation (in build file:/home/donesh/scala-spark-30-days/Day04-RDD-Creation/)
+[info] running (fork) Day04 
+[info] === Day 04 - RDD Creation ===
+[info] --- RDD from Collection ---
+[info] 10
+[info] 20
+[info] 30
+[info] 40
+[info] 50
+[info] --- map ---
+[info] 20
+[info] 40
+[info] 60
+[info] 80
+[info] 100
+[info] --- filter ---
+[info] 30
+[info] 40
+[info] 50
+[info] --- flatMap ---
+[info] Spark
+[info] RDD
+[info] Scala
+[info] Spark
+[info] RDD
+[info] Practice
+[info] --- Transactions from Text File ---
+[info] T001,C001,Laptop,2,50000
+[info] T002,C002,Mobile,3,20000
+[info] T003,C001,Mouse,5,800
+[info] T004,C003,Keyboard,2,1500
+[info] T005,C004,Monitor,2,12000
+[info] T006,C002,Headphones,4,3000
+[info] T007,C005,Laptop,1,50000
+[info] T008,C003,Mouse,10,800
+[info] --- Total Sales ---
+[info] Total Sales: 261000.00
+[info] --- Partition Information ---
+[info] Transaction RDD partitions: 2
+[info] Default Parallelism: 4
+[info] --- Customer File ---
+[info] C001,Rahul,Delhi
+[info] C002,Aman,Mumbai
+[info] C003,Priya,Bangalore
+[info] C004,Neha,Pune
+[info] C005,Rohit,Jaipur
+[info] C006,Kiran,Chennai
+[info] C007,Anita,Kolkata
+[info] C008,Vikas,Hyderabad
+[info] C009,Arjun,Ahmedabad
+[info] C010,Meena,Surat
+[info] Customer RDD partitions: 4
+[info] --- Customer Names ---
+[info] Rahul
+[info] Aman
+[info] Priya
+[info] Neha
+[info] Rohit
+[info] Kiran
+[info] Anita
+[info] Vikas
+[info] Arjun
+[info] Meena
+[info] === Day 04 Completed ===
+[success] Total time: 11 s, completed Sep 10, 2026, 6:20:57 AM

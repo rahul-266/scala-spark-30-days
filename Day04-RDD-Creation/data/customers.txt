@@ -1,0 +1,10 @@
+C001,Rahul,Delhi
+C002,Aman,Mumbai
+C003,Priya,Bangalore
+C004,Neha,Pune
+C005,Rohit,Jaipur
+C006,Kiran,Chennai
+C007,Anita,Kolkata
+C008,Vikas,Hyderabad
+C009,Arjun,Ahmedabad
+C010,Meena,Surat

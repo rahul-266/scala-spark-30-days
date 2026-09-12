@@ -1,0 +1,26 @@
+[info] welcome to sbt 1.10.11 (Ubuntu Java 17.0.20)
+[info] loading project definition from /home/donesh/scala-spark-30-days/Day06-Word-Count/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to Day06-Word-Count (in build file:/home/donesh/scala-spark-30-days/Day06-Word-Count/)
+[info] running (fork) Day06 
+[info] === Day 06 - Word Count ===
+[info] --- Classic Word Count ---
+[info] Total words: 98
+[info] Distinct words: 33
+[info] \n--- Top 10 Most Frequent Words ---
+[info] info         10
+[info] orders       9
+[info] spark        9
+[info] customer     5
+[info] job          5
+[info] processing   5
+[info] completed    4
+[info] database     4
+[info] from         4
+[info] successfully 4
+[info] \n--- Pipeline ---
+[info] flatMap -> map -> reduceByKey
+[info] Case-insensitive counting enabled
+[info] Punctuation and empty words ignored
+[info] \n=== Day 06 Completed ===
+[success] Total time: 4 s, completed Sep 12, 2026, 12:02:52 PM

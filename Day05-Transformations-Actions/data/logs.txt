@@ -1,0 +1,11 @@
+2026-09-12 10:00:01 INFO Application started
+2026-09-12 10:01:15 INFO User login successful
+2026-09-12 10:02:10 ERROR Database connection failed
+2026-09-12 10:03:22 WARN Slow response detected
+2026-09-12 10:04:08 ERROR File not found
+2026-09-12 10:05:17 INFO Request processed successfully
+2026-09-12 10:06:31 ERROR Payment service unavailable
+2026-09-12 10:07:45 INFO User logout successful
+2026-09-12 10:08:09 WARN Retry scheduled
+2026-09-12 10:09:54 ERROR Timeout while calling service
+2026-09-12 10:10:20 INFO Application completed

@@ -1,0 +1,15 @@
+INFO Spark application started successfully
+INFO Spark application processing orders
+INFO Reading customer orders from input file
+ERROR Failed to read customer orders from input file
+WARN Retry reading customer orders from input file
+INFO Processing customer orders with Spark
+INFO Spark job completed successfully
+ERROR Spark job failed while processing customer orders
+INFO Restarting Spark job after failure
+INFO Spark job completed successfully
+ERROR Database connection failed while processing orders
+INFO Retrying database connection for orders
+INFO Database connection restored and Spark job completed
+WARN Slow response from database while processing orders
+INFO Spark application completed successfully

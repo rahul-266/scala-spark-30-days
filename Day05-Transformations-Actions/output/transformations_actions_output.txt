@@ -1,0 +1,30 @@
+[info] welcome to sbt 1.10.11 (Ubuntu Java 17.0.20)
+[info] loading project definition from /home/donesh/scala-spark-30-days/Day05-Transformations-Actions/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to Day05-Transformations-Actions (in build file:/home/donesh/scala-spark-30-days/Day05-Transformations-Actions/)
+[info] running (fork) Day05 
+[info] === Day 05 - Transformations and Actions ===
+[info] --- Transformations ---
+[info] map: 2, 4, 6, 6, 8, 10
+[info] filter: 4, 5
+[info] flatMap: Spark, RDD, Scala, Spark
+[info] distinct: 4, 1, 5, 2, 3
+[info] union: Spark, Scala, RDD, Spark
+[info] --- Actions ---
+[info] count: 6
+[info] collect: 1, 2, 3, 3, 4, 5
+[info] first: 1
+[info] take(3): 1, 2, 3
+[info] reduce: 18
+[info] --- Lazy Evaluation ---
+[info] Transformation defined; execution happens when an action is called.
+[info] Lazy result: 20, 40
+[info] --- Log Analyzer ---
+[info] ERROR messages:
+[info] 2026-09-12 10:02:10 ERROR Database connection failed
+[info] 2026-09-12 10:04:08 ERROR File not found
+[info] 2026-09-12 10:06:31 ERROR Payment service unavailable
+[info] 2026-09-12 10:09:54 ERROR Timeout while calling service
+[info] Total ERROR messages: 4
+[info] === Day 05 Completed ===
+[success] Total time: 5 s, completed Sep 12, 2026, 11:52:53 AM

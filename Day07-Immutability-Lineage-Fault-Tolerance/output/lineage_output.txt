@@ -1,0 +1,36 @@
+[info] welcome to sbt 1.10.11 (Ubuntu Java 17.0.20)
+[info] loading project definition from /home/donesh/scala-spark-30-days/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to Day07-Immutability-Lineage-Fault-Tolerance (in build file:/home/donesh/scala-spark-30-days/)
+[info] running (fork) Day07 
+[info] === Day 07 - Immutability, Lineage and Fault Tolerance ===
+[info] --- Transformation Chain ---
+[info] inputRDD -> flatMap -> wordsRDD
+[info] wordsRDD -> filter -> sparkWordsRDD
+[info] sparkWordsRDD -> map -> resultRDD
+[info] --- Original RDD ---
+[info] Spark is distributed
+[info] RDDs are immutable
+[info] Lineage helps recovery
+[info] Partitions are processed in parallel
+[info] Spark can recompute lost partitions
+[info] --- Final Result ---
+[info] SPARK
+[info] SPARK
+[info] --- Immutability ---
+[info] inputRDD is unchanged after creating wordsRDD, sparkWordsRDD and resultRDD.
+[info] Original input partitions: 2
+[info] Final result partitions: 2
+[info] --- Lineage ---
+[info] (2) MapPartitionsRDD[4] at map at Day07.scala:21 []
+[info]  |  MapPartitionsRDD[3] at filter at Day07.scala:20 []
+[info]  |  MapPartitionsRDD[2] at flatMap at Day07.scala:19 []
+[info]  |  data/sample.txt MapPartitionsRDD[1] at textFile at Day07.scala:16 []
+[info]  |  data/sample.txt HadoopRDD[0] at textFile at Day07.scala:16 []
+[info] --- Fault Tolerance Scenario ---
+[info] Suppose one executor is lost and a partition of resultRDD is lost.
+[info] Spark uses the RDD lineage to recompute the lost partition.
+[info] It does not need to recompute unaffected partitions.
+[info] For this narrow transformation chain, Spark can read the required parent partition and reapply flatMap, filter and map.
+[info] === Day 07 Completed ===
+[success] Total time: 8 s, completed Sep 15, 2026, 4:58:39 AM

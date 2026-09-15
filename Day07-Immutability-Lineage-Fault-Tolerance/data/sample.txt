@@ -1,0 +1,5 @@
+Spark is distributed
+RDDs are immutable
+Lineage helps recovery
+Partitions are processed in parallel
+Spark can recompute lost partitions

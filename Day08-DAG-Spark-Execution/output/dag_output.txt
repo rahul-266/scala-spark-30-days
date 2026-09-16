@@ -1,0 +1,28 @@
+[info] welcome to sbt 1.10.11 (Ubuntu Java 17.0.20)
+[info] loading project definition from /home/donesh/scala-spark-30-days/Day08-DAG-Spark-Execution/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to Day08-DAG-Spark-Execution (in build file:/home/donesh/scala-spark-30-days/Day08-DAG-Spark-Execution/)
+[info] running (fork) Day08 
+[info] === Day 08 - DAG and Spark Execution ===
+[info] --- Job 1: reduceByKey pipeline ---
+[info] Headphones   6000.00
+[info] Keyboard     7500.00
+[info] Laptop       150000.00
+[info] Mobile       140000.00
+[info] Mouse        2400.00
+[info] --- Job 2: count action ---
+[info] Product records: 8
+[info] --- Execution Concepts ---
+[info] Job: created when an action such as collect() or count() is called
+[info] Narrow transformations: map, filter, mapValues
+[info] Wide transformation: reduceByKey
+[info] Shuffle boundary: reduceByKey
+[info] Expected stages for the reduceByKey pipeline: 2
+[info] Stage 1: map -> filter -> map -> mapValues
+[info] Stage 2: reduceByKey -> collect
+[info] Tasks: one task per partition within a stage
+[info] --- Narrow vs Wide ---
+[info] Narrow: child partition depends on one parent partition
+[info] Wide: child partition can depend on multiple parent partitions
+[info] === Day 08 Completed ===
+[success] Total time: 14 s, completed Sep 16, 2026, 6:02:26 AM

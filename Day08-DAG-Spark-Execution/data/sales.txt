@@ -1,0 +1,8 @@
+Laptop,2,50000
+Mobile,5,20000
+Laptop,1,50000
+Keyboard,4,1500
+Mobile,2,20000
+Mouse,3,800
+Headphones,2,3000
+Keyboard,1,1500

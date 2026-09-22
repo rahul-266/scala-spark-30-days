@@ -1,0 +1,11 @@
+customer_id,name,city,age,total_spend,status
+C001,Rahul,Delhi,25,45000,ACTIVE
+C002,Priya,Mumbai,31,72000,ACTIVE
+C003,Amit,Bangalore,28,18000,INACTIVE
+C004,Neha,Hyderabad,35,95000,ACTIVE
+C005,Ravi,Chennai,42,56000,ACTIVE
+C006,Anjali,Pune,29,32000,ACTIVE
+C007,Vikas,Kolkata,24,15000,INACTIVE
+C008,Pooja,Jaipur,38,88000,ACTIVE
+C009,Karan,Delhi,27,26000,ACTIVE
+C010,Simran,Mumbai,33,67000,ACTIVE

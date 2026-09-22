@@ -1,0 +1,5 @@
+{"customer_id":"C011","name":"Arjun","city":"Delhi","age":30,"total_spend":52000,"status":"ACTIVE"}
+{"customer_id":"C012","name":"Meera","city":"Mumbai","age":26,"total_spend":41000,"status":"ACTIVE"}
+{"customer_id":"C013","name":"Suresh","city":"Bangalore","age":40,"total_spend":78000,"status":"ACTIVE"}
+{"customer_id":"C014","name":"Kavya","city":"Hyderabad","age":23,"total_spend":12000,"status":"INACTIVE"}
+{"customer_id":"C015","name":"Manoj","city":"Pune","age":36,"total_spend":63000,"status":"ACTIVE"}

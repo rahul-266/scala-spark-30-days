@@ -52,5 +52,5 @@ A transaction is considered invalid when:
 
 ```bash
 sbt -batch compile
-sbt -batch "run"o
+sbt -batch "run"
 

@@ -1,0 +1,4 @@
+route_id,transport_type,source,destination,total_seats
+R001,BUS,Hyderabad,Vijayawada,20
+R002,TRAIN,Vijayawada,Chennai,30
+R003,BUS,Raipur,Bilaspur,25

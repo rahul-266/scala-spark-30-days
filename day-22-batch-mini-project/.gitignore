@@ -1,0 +1,9 @@
+target/
+project/target/
+.bsp/
+.metals/
+.idea/
+output/
+spark-warehouse/
+metastore_db/
+derby.log

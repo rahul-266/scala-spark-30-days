@@ -1,0 +1,8 @@
+{"event_id":"V001","patient_id":"P001","heart_rate":145,"temperature":39.2,"oxygen":88,"timestamp":"2026-10-02T09:40:00"}
+{"event_id":"V002","patient_id":"P002","heart_rate":80,"temperature":37.0,"oxygen":98,"timestamp":"2026-10-02T09:40:10"}
+{"event_id":"V003","patient_id":"P001","heart_rate":130,"temperature":38.0,"oxygen":94,"timestamp":"2026-10-02T09:40:20"}
+{"event_id":"V004","patient_id":"P003","heart_rate":110,"temperature":40.1,"oxygen":96,"timestamp":"2026-10-02T09:40:30"}
+{"event_id":"V005","patient_id":"P001","heart_rate":125,"temperature":37.2,"oxygen":97,"timestamp":"2026-10-02T09:40:40"}
+{"event_id":"V006","patient_id":"P002","heart_rate":121,"temperature":37.0,"oxygen":98,"timestamp":"2026-10-02T09:40:50"}
+{"event_id":"V007","patient_id":"P004","heart_rate":75,"temperature":36.9,"oxygen":99,"timestamp":"2026-10-02T09:41:00"}
+{"event_id":"V008","patient_id":"P003","heart_rate":118,"temperature":37.1,"oxygen":89,"timestamp":"2026-10-02T09:41:10"}

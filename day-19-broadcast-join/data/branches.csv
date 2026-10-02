@@ -1,0 +1,11 @@
+branch_id,branch_name,city
+B001,Central Branch,Hyderabad
+B002,North Branch,Delhi
+B003,South Branch,Chennai
+B004,West Branch,Mumbai
+B005,East Branch,Kolkata
+B006,Main Branch,Raipur
+B007,City Branch,Pune
+B008,Market Branch,Bengaluru
+B009,Airport Branch,Jaipur
+B010,Station Branch,Bhopal

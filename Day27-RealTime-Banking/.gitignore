@@ -1,0 +1,13 @@
+target/
+project/target/
+.metals/
+.bloop/
+.idea/
+.vscode/
+*.log
+
+# Streaming checkpoints
+checkpoints/
+
+# Generated outputs can be regenerated
+output/

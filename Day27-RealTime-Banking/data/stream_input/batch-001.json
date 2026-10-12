@@ -1,0 +1,11 @@
+{"transaction_id":"TX001","account_id":"ACC1001","amount":7000,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:00:01"}
+{"transaction_id":"TX002","account_id":"ACC1001","amount":9500,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:00:15"}
+{"transaction_id":"TX003","account_id":"ACC1001","amount":12000,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:00:30"}
+{"transaction_id":"TX004","account_id":"ACC1001","amount":1500,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:00:45"}
+{"transaction_id":"TX005","account_id":"ACC1002","amount":1200,"transaction_type":"CREDIT","branch_id":"BR002","event_time":"2026-10-12T10:00:10"}
+{"transaction_id":"TX006","account_id":"ACC1002","amount":1300,"transaction_type":"DEBIT","branch_id":"BR002","event_time":"2026-10-12T10:00:35"}
+{"transaction_id":"TX007","account_id":"ACC1003","amount":800,"transaction_type":"DEBIT","branch_id":"BR003","event_time":"2026-10-12T10:01:05"}
+{"transaction_id":"TX008","account_id":"ACC1003","amount":900,"transaction_type":"CREDIT","branch_id":"BR003","event_time":"2026-10-12T10:01:20"}
+{"transaction_id":"TX009","account_id":"ACC1004","amount":15000,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:01:10"}
+{"transaction_id":"TX010","account_id":"ACC1004","amount":20000,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:01:25"}
+{"transaction_id":"TX011","account_id":"ACC1004","amount":18000,"transaction_type":"DEBIT","branch_id":"BR001","event_time":"2026-10-12T10:01:40"}

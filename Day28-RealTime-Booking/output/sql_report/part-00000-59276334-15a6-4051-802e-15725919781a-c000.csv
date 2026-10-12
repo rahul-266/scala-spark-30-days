@@ -1,0 +1,4 @@
+booking_type,total_bookings,confirmed_amount
+HOTEL,3,11700
+FLIGHT,3,11600
+BUS,2,3000

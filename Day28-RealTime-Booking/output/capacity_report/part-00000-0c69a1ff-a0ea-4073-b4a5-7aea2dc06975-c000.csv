@@ -1,0 +1,7 @@
+destination,booking_type,confirmed_bookings,total_capacity,remaining_capacity
+Jaipur,HOTEL,1,50,49
+Chennai,FLIGHT,1,70,69
+Delhi,BUS,1,75,74
+Goa,HOTEL,1,40,39
+Delhi,FLIGHT,1,100,99
+Manali,BUS,1,60,59

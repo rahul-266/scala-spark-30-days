@@ -1,0 +1,8 @@
+destination,booking_type,total_capacity
+Delhi,FLIGHT,100
+Mumbai,FLIGHT,80
+Chennai,FLIGHT,70
+Jaipur,HOTEL,50
+Goa,HOTEL,40
+Manali,BUS,60
+Delhi,BUS,75
